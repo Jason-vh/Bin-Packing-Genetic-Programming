@@ -1,0 +1,9 @@
+// Generated tree
+graph clusterBest {
+	label="Randomly Generated Tree Best with value 26.56"
+	KEMDO0 [label="*"]
+	KEMDO1 [label=-4.05]
+	KEMDO2 [label=-6.56]
+	KEMDO0 -- KEMDO1
+	KEMDO0 -- KEMDO2
+}

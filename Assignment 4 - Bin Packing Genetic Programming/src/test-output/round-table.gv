@@ -1,0 +1,179 @@
+// All trees
+graph {
+	// Generated tree
+	subgraph "cluster1 [Original]" {
+		label="Randomly Generated Tree 1 [Original] with value 26.56"
+		Z4W0A0 [label="-"]
+		Z4W0A1 [label="*"]
+		Z4W0A2 [label=2.86]
+		Z4W0A3 [label=N]
+		Z4W0A4 [label="√"]
+		Z4W0A5 [label=4.21]
+		Z4W0A0 -- Z4W0A1
+		Z4W0A1 -- Z4W0A2
+		Z4W0A1 -- Z4W0A3
+		Z4W0A0 -- Z4W0A4
+		Z4W0A4 -- Z4W0A5
+	}
+	// Generated tree
+	subgraph "cluster2 [Original]" {
+		label="Randomly Generated Tree 2 [Original] with value 71.25"
+		WEX590 [label="+"]
+		WEX591 [label="*"]
+		WEX592 [label=12.25]
+		WEX593 [label="θ"]
+		WEX594 [label="*"]
+		WEX595 [label=C]
+		WEX596 [label="θ"]
+		WEX590 -- WEX591
+		WEX591 -- WEX592
+		WEX591 -- WEX593
+		WEX590 -- WEX594
+		WEX594 -- WEX595
+		WEX594 -- WEX596
+	}
+	// Generated tree
+	subgraph "cluster3 [Original]" {
+		label="Randomly Generated Tree 3 [Original] with value 7.34"
+		CCO190 [label="-"]
+		CCO191 [label="^2"]
+		CCO192 [label=C]
+		CCO193 [label="+"]
+		CCO194 [label=C]
+		CCO195 [label=-5.34]
+		CCO190 -- CCO191
+		CCO191 -- CCO192
+		CCO190 -- CCO193
+		CCO193 -- CCO194
+		CCO193 -- CCO195
+	}
+	// Generated tree
+	subgraph "cluster4 [Original]" {
+		label="Randomly Generated Tree 4 [Original] with value -0.45"
+		OBYFC0 [label="/"]
+		OBYFC1 [label="√"]
+		OBYFC2 [label=N]
+		OBYFC3 [label="-"]
+		OBYFC4 [label=-5.05]
+		OBYFC5 [label=C]
+		OBYFC0 -- OBYFC1
+		OBYFC1 -- OBYFC2
+		OBYFC0 -- OBYFC3
+		OBYFC3 -- OBYFC4
+		OBYFC3 -- OBYFC5
+	}
+	// Generated tree
+	subgraph "cluster5 [Original]" {
+		label="Randomly Generated Tree 5 [Original] with value 10000"
+		ZY80A0 [label="^2"]
+		ZY80A1 [label="^2"]
+		ZY80A2 [label=N]
+		ZY80A0 -- ZY80A1
+		ZY80A1 -- ZY80A2
+	}
+	// Generated tree
+	subgraph "cluster6 [Original]" {
+		label="Randomly Generated Tree 6 [Original] with value 6.21"
+		CTJ140 [label="+"]
+		CTJ141 [label="+"]
+		CTJ142 [label="√"]
+		CTJ143 [label="θ"]
+		CTJ144 [label="^2"]
+		CTJ145 [label=C]
+		CTJ146 [label="/"]
+		CTJ147 [label="/"]
+		CTJ148 [label=-7.33]
+		CTJ149 [label=N]
+		CTJ1410 [label="^2"]
+		CTJ1411 [label="θ"]
+		CTJ140 -- CTJ141
+		CTJ141 -- CTJ142
+		CTJ142 -- CTJ143
+		CTJ141 -- CTJ144
+		CTJ144 -- CTJ145
+		CTJ140 -- CTJ146
+		CTJ146 -- CTJ147
+		CTJ147 -- CTJ148
+		CTJ147 -- CTJ149
+		CTJ146 -- CTJ1410
+		CTJ1410 -- CTJ1411
+	}
+	// Generated tree
+	subgraph "cluster7 [Original]" {
+		label="Randomly Generated Tree 7 [Original] with value 14.64"
+		VO4QI0 [label="+"]
+		VO4QI1 [label="√"]
+		VO4QI2 [label="-"]
+		VO4QI3 [label="^2"]
+		VO4QI4 [label=C]
+		VO4QI5 [label=C]
+		VO4QI6 [label="*"]
+		VO4QI7 [label="√"]
+		VO4QI8 [label="+"]
+		VO4QI9 [label="θ"]
+		VO4QI10 [label=C]
+		VO4QI11 [label="θ"]
+		VO4QI0 -- VO4QI1
+		VO4QI1 -- VO4QI2
+		VO4QI2 -- VO4QI3
+		VO4QI3 -- VO4QI4
+		VO4QI2 -- VO4QI5
+		VO4QI0 -- VO4QI6
+		VO4QI6 -- VO4QI7
+		VO4QI7 -- VO4QI8
+		VO4QI8 -- VO4QI9
+		VO4QI8 -- VO4QI10
+		VO4QI6 -- VO4QI11
+	}
+	// Generated tree
+	subgraph "cluster8 [Original]" {
+		label="Randomly Generated Tree 8 [Original] with value -3.15"
+		SE2430 [label="*"]
+		SE2431 [label="-"]
+		SE2432 [label="√"]
+		SE2433 [label="+"]
+		SE2434 [label=C]
+		SE2435 [label=N]
+		SE2436 [label="^2"]
+		SE2437 [label="√"]
+		SE2438 [label="θ"]
+		SE2439 [label="-"]
+		SE24310 [label="-"]
+		SE24311 [label="+"]
+		SE24312 [label=N]
+		SE24313 [label=C]
+		SE24314 [label="+"]
+		SE24315 [label="θ"]
+		SE24316 [label="θ"]
+		SE24317 [label="+"]
+		SE24318 [label="/"]
+		SE24319 [label=-2.51]
+		SE24320 [label=N]
+		SE24321 [label="/"]
+		SE24322 [label=C]
+		SE24323 [label=N]
+		SE2430 -- SE2431
+		SE2431 -- SE2432
+		SE2432 -- SE2433
+		SE2433 -- SE2434
+		SE2433 -- SE2435
+		SE2431 -- SE2436
+		SE2436 -- SE2437
+		SE2437 -- SE2438
+		SE2430 -- SE2439
+		SE2439 -- SE24310
+		SE24310 -- SE24311
+		SE24311 -- SE24312
+		SE24311 -- SE24313
+		SE24310 -- SE24314
+		SE24314 -- SE24315
+		SE24314 -- SE24316
+		SE2439 -- SE24317
+		SE24317 -- SE24318
+		SE24318 -- SE24319
+		SE24318 -- SE24320
+		SE24317 -- SE24321
+		SE24321 -- SE24322
+		SE24321 -- SE24323
+	}
+}
