@@ -82,7 +82,7 @@ class GeneticProgrammingAlgorithm():
       tree = self.chromosomes[i].tree
       graph.subgraph(graph=tree.render(f'{i+1} [Original]'))
 
-    graph.render('test-output/round-table.gv', view=True)
+    graph.render('test-output/round-table.gv')
 
   def best_chromosome(self):
     self.chromosomes.sort(key=lambda c: c.fitness)
